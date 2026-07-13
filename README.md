@@ -2,8 +2,12 @@
 
 > **Grand Admiral Thrawn:** *I have no desire to destroy the galaxy. I simply wish to bring order to it. Without a structured command, there is only chaos. And chaos is an inefficiency I will not tolerate.*
 
-[![Imperial Grid](https://shields.io)](https://github.com)
-[![Tactical Protocol](https://shields.io)](https://github.com)
+     ___          ___
+    /___\        /___\
+
+    |___|--[o]--|___|
+    \___/        \___/
+
 
 ---
 
