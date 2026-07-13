@@ -19,9 +19,9 @@ A single flaw in a battle plan can collapse an entire star fleet. Your cloud inf
 
 ###  The Constructs
 
-./Test-ExchangeServerHealth_SE.ps1 - An update to Paul Cunninham's classic Exchange Server health check script, to include Exchange Server SE
-./New-DailyMailFlowReport.ps1 - A read-only PowerShell report that summarizes 24 hours of on-premises Exchange mail flow from message tracking logs plus live transport, queue, service, and component state. Built for a hybrid Exchange 2019 / SE environment with multiple hub-transport servers.
-./Invoke-EntraSignInTriage.ps1 — A PowerShell triage tool for investigating Entra ID (Azure AD) sign-in issues. It pulls sign-in logs, decodes error codes, detects anomalies, and produces both a visual HTML dashboard and a color-coded console summary.
+**./Test-ExchangeServerHealth_SE.ps1 - An update to Paul Cunninham's classic Exchange Server health check script, to include Exchange Server SE
+**./New-DailyMailFlowReport.ps1 - A read-only PowerShell report that summarizes 24 hours of on-premises Exchange mail flow from message tracking logs plus live transport, queue, service, and component state. Built for a hybrid Exchange 2019 / SE environment with multiple hub-transport servers.
+**./Invoke-EntraSignInTriage.ps1 — A PowerShell triage tool for investigating Entra ID (Azure AD) sign-in issues. It pulls sign-in logs, decodes error codes, detects anomalies, and produces both a visual HTML dashboard and a color-coded console summary.
 
 ---
 
